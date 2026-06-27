@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/nestegg/sw.js', { scope: '/nestegg/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Program%20Files/Git/nestegg/sw.js', { scope: '/Program%20Files/Git/nestegg/' })})}
